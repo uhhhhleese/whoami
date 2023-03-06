@@ -1,0 +1,115 @@
+.container{
+    display:flex;
+    width: 80%;
+    margin:auto;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+
+a{
+    font-size: 50px;
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    font-family: "ff-providence-sans-web-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+#prev{
+    width: 10%;
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#next{
+    width:10%;
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#left-page{
+    width:40%;
+    
+}
+
+#right-page{
+    width:40%;
+    
+}
+
+#content{ 
+    width: 80%;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    
+}
+
+p{ 
+    justify-content: center;
+        display:flex
+        align-items: center;
+        font-family: "ff-providence-sans-web-pro", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        
+    
+   
+    
+}
+div.gallery {
+    align-content: space-between;
+    align-items: left;
+    margin-top: 40%;
+    margin-left: 0%;
+    margin: 5px;
+float: left;
+width: 1000px;
+height: 200px;
+position: relative;
+margin-top: 43%;
+
+justify-content: center;
+display:flex
+align-items: center;
+    
+    
+  }
+  
+ 
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    
+  }
+
+  
+  
+  div.question{ 
+    position: relative;
+    margin-left: 22%;
+    margin-top: 15%;
+}
+
+
+width: 100%;
+    height: 180px;
+    position: relative;
+    justify-content: center;
+    display:flex
+    align-items: center;
+    margin-top: 0%;
+    margin-left: 30%;
+    border: 5px solid black;
+
